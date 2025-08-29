@@ -52,7 +52,7 @@ Wireframes can vary in detail and complexity depending on the stage of the desig
 
 ## High-Fidelity Wireframes
 
-This type of wireframe in the figma site is a **High-Fidelity wireframe**
+The type of wireframe in the figma site is a **High-Fidelity wireframe**
 High-fidelity wireframes are **advanced, realistic designs** that demonstrate how the final product will look and function. They are used to validate the user experience (UX) and user interface (UI) before coding begins.
 
 ### Key Characteristics:
